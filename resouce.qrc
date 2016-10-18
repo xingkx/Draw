@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Icon/FileNew.png</file>
+        <file>Icon/EditMove.png</file>
+        <file>Icon/FileOpen.png</file>
+        <file>Icon/FileSave.png</file>
+        <file>Icon/DrawEllipse.png</file>
+        <file>Icon/DrawLine.png</file>
+        <file>Icon/DrawRectangle.png</file>
+        <file>Icon/DrawImage.png</file>
+        <file>Icon/DrawString.png</file>
+    </qresource>
+</RCC>
